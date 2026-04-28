@@ -118,13 +118,13 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 ## 📸 Dashboard Preview
 
 **Overview & KPIs**
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](dashboard-maternal-overview.png)
 
 **Risk Analysis**
-![Risk Analysis](dashboard-risk.png)
+![Risk Analysis](dashboard-risk-analysis.png)
 
 **Vital Signs**
-![Vital Signs](dashboard-vitals.png)
+![Vital Signs](dashboard-vital-signs.png)
 
 ---
 
