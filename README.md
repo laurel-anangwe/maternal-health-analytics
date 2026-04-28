@@ -101,7 +101,7 @@ maternal-health-analytics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/maternal-health-analytics.git
+git clone https://github.com/laurel-anangwe/maternal-health-analytics.git
 cd maternal-health-analytics
 
 # Install dependencies
@@ -136,54 +136,6 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 - **Age-stratified analysis** — separate models for teens vs adults vs older adults
 
 ---
----
----
-
-# ✉️ CV / RESUME PROJECT ENTRY
-
-*Copy one of the versions below directly into your CV under a "Projects" section.*
-
----
-
-## VERSION A — Concise (1–2 lines, for tight CVs)
-
-**Maternal Health Risk Analytics Dashboard** | Excel · Python (pandas, matplotlib, seaborn)
-Analysed 1,014 maternal patient records to classify health risk levels, identify vital sign patterns, and evaluate two prediction models; built an interactive Excel dashboard and Python visualizations revealing blood sugar as the strongest risk differentiator and an 81% high-risk detection rate for the IF model. [[GitHub Link]](#)
-
----
-
-## VERSION B — Detailed (3–4 lines, for data analyst / health data roles)
-
-**Maternal Health Risk Analytics Dashboard** | Excel · Python · Predictive Analysis
-Designed and executed an end-to-end analysis of 1,014 maternal health records spanning high, mid, and low risk classifications. Built a 5-sheet Excel dashboard covering risk distribution, age-group demographics, vital signs breakdowns, and clinical reference ranges. Extended the analysis in Python using pandas, matplotlib, and seaborn to produce visualizations including confusion matrices, violin plots, and scatter plots for blood pressure analysis. Evaluated two prediction models — the IF model achieved 81.2% accuracy on high-risk detection vs 43.8% for the Score model — a finding with direct clinical implications. [[GitHub Link]](#)
-
----
-
-## VERSION C — Achievement-Focused (for competitive applications)
-
-**Maternal Health Risk Analytics Dashboard** | Excel · Python
-- Analysed 1,014 maternal patient records across 3 risk levels (high/mid/low) and 5 vital sign indicators
-- Built a 5-sheet professional Excel dashboard with KPI cards, clinical reference tables, and risk-colour-coded raw data
-- Engineered age group feature (Teen / Young Adult / Adult / Older Adult) and identified that Older Adults (40+) carry the highest high-risk burden
-- Evaluated two prediction models using confusion matrices — found IF model outperforms Score model for high-risk detection by 37.4 percentage points (81.2% vs 43.8%)
-- Identified blood sugar as the #1 risk differentiator with a 68% difference between high and low risk averages [[GitHub Link]](#)
-
----
-
-## 💡 HOW TO LIST THE PROJECTS SECTION ON YOUR CV
-
-If you now have both the Healthcare and Maternal Health projects, your Projects section could look like this:
-
-**Projects**
-
-**Maternal Health Risk Analytics** | Excel · Python · seaborn
-[One-line description] [[GitHub]](#)
-
-**Healthcare Patient Analytics Dashboard** | Excel · Python
-[One-line description] [[GitHub]](#)
-
-Having two health data projects signals a **specialisation** — which is far more attractive to employers than two unrelated projects. You're building a health data analyst identity. 🏥
-
 ---
 
 *Maternal Health Risk Analytics — built with Excel & Python | Dataset: Maternal_Health_Risk_Data_Set.xlsx*
