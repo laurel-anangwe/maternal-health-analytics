@@ -1,7 +1,7 @@
 """
 Maternal Health Risk Analysis
 ==============================
-Author  : [Your Name]
+Author  : Laurel Anangwe
 Dataset : Maternal_Health_Risk_Data_Set.xlsx  |  1,014 patients
 Purpose : Exploratory data analysis and visualization of maternal health
           risk classification, vital signs patterns, and prediction model
