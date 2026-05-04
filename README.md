@@ -127,15 +127,6 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 ![Vital Signs](dashboard-vital-signs.png)
 
 ---
-
-## 🔮 POTENTIAL EXTENSIONS
-
-- **Logistic Regression model** in Python to improve prediction accuracy beyond 53.9%
-- **Power BI / Tableau** interactive dashboard version
-- **Feature importance analysis** — quantify which vital sign contributes most to risk
-- **Age-stratified analysis** — separate models for teens vs adults vs older adults
-
----
 ---
 
 *Maternal Health Risk Analytics — built with Excel & Python | Dataset: Maternal_Health_Risk_Data_Set.xlsx*
