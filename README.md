@@ -127,6 +127,8 @@ Output: 3 high-resolution visualization figures saved to `/visuals/`
 ![Vital Signs](dashboard-vital-signs.png)
 
 ---
+## Dataset
+Maternal Health Risk Data Set sourced from [Kaggle](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data).
 ---
 
 *Maternal Health Risk Analytics — built with Excel & Python | Dataset: Maternal_Health_Risk_Data_Set.xlsx*
